@@ -1,0 +1,25 @@
+
+
+check if have  git 
+    if we dont :
+        install git
+    if we do :
+        continue 
+
+  check if number of args are 0:
+            if we are :
+            promt for path to push
+                promt for commit massege 
+            if we 
+
+check if we are in a git repository 
+    if we are :
+        check if number of args are 2:
+            if we do :
+                use first path as path 
+                use second argument as commit massage 
+
+            if #arg of args are 1:
+            use first argument as commit massage
+
+            
